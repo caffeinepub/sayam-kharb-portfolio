@@ -113,7 +113,7 @@ export default function ContactFooter() {
               {/* Social links */}
               <div className="flex justify-center gap-3">
                 <a
-                  href="https://github.com/sayamkharb"
+                  href="https://github.com/say454545"
                   target="_blank"
                   rel="noopener noreferrer"
                   data-ocid="contact.github.link"
@@ -126,7 +126,7 @@ export default function ContactFooter() {
                   <Github size={18} className="text-white" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/sayamkharb"
+                  href="https://www.linkedin.com/in/sayam-kharb-839086340/"
                   target="_blank"
                   rel="noopener noreferrer"
                   data-ocid="contact.linkedin.link"
@@ -234,7 +234,7 @@ export default function ContactFooter() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/sayamkharb"
+                    href="https://github.com/say454545"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`text-xs flex items-center gap-1.5 transition-colors ${
@@ -248,7 +248,7 @@ export default function ContactFooter() {
                 </li>
                 <li>
                   <a
-                    href="https://linkedin.com/in/sayamkharb"
+                    href="https://www.linkedin.com/in/sayam-kharb-839086340/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`text-xs flex items-center gap-1.5 transition-colors ${

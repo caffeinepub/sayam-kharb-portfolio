@@ -158,7 +158,7 @@ export default function HeroSection() {
 
             <div className="flex flex-wrap gap-4">
               <a
-                href="/resume.pdf"
+                href="/assets/uploads/resume_2.o_1-019d2b62-3cb8-70dd-a45c-ac09855e95a5-1.pdf"
                 download
                 data-ocid="hero.download_resume.button"
                 className="flex items-center gap-2 px-6 py-3 rounded-full font-medium text-white transition-all glow-blue hover:scale-105"

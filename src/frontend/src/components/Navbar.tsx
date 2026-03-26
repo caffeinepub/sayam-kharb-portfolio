@@ -74,7 +74,7 @@ export default function Navbar() {
           {/* Right Actions */}
           <div className="flex items-center gap-3">
             <a
-              href="/resume.pdf"
+              href="/assets/uploads/resume_2.o_1-019d2b62-3cb8-70dd-a45c-ac09855e95a5-1.pdf"
               download
               data-ocid="navbar.download_cv.button"
               className={`hidden sm:flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium border transition-all ${
